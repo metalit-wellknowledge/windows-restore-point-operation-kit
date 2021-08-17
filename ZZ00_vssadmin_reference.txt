@@ -1,0 +1,7 @@
+Delete Shadows - ボリューム シャドウ コピーを削除
+List Providers - 登録されているボリューム シャドウ コピーのプロバイダーの一覧を表示
+List Shadows   - 既存のボリューム シャドウ コピーの一覧を表示
+List ShadowStorage - ボリューム シャドウ コピーの記憶域関連付けの一覧を表示
+List Volumes   - シャドウ コピーで利用できるボリュームの一覧を表示
+List Writers   - ボリューム シャドウ コピーのサブスクライブ ライターの一覧を表示
+Resize ShadowStorage - ボリューム シャドウ コピーの記憶域関連付けのサイズを変更

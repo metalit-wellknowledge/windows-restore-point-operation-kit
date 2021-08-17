@@ -1,0 +1,3 @@
+vssadmin list shadowStorage
+
+pause
